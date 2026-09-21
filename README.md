@@ -1,2 +1,2 @@
-# Proyek Speech Recognition - Versi A
+# Proyek Speech Recognition - Versi nisa
 NISAA , AMRI
