@@ -1,5 +1,5 @@
 # Proyek SER Kelompok - Versi Amri
-NISAA , AMRIi
+NISAA, AMRI
 # Proyek Speech Recognition - Versi A
 NISAA , AMRI
 # kelompok3
