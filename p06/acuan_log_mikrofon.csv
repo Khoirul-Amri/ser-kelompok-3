@@ -1,0 +1,6 @@
+parameter,nilai_acuan,keterangan
+jumlah,17,baris data valid dari 24 baris data
+rata,62.4412,dB (rata-rata 62.441176... dibulatkan 4 desimal)
+min,49.6,dB
+maks,73.4,dB
+median,61.8,dB
